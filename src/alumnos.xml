@@ -1,0 +1,14 @@
+<centro>
+    <alumno>
+        <nombre>Lucía</nombre>
+        <nota>8.5</nota>
+    </alumno>
+    <alumno>
+        <nombre>Carlos</nombre>
+        <nota>4.2</nota>
+    </alumno>
+    <alumno>
+        <nombre>Marta</nombre>
+        <nota>6.0</nota>
+    </alumno>
+</centro>
